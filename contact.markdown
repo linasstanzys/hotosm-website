@@ -50,8 +50,7 @@ Media:
     \n[Logo, colors, and fonts](https://github.com/hotosm/hotosm-website/wiki/Colors-Fonts-and-Logo)\n[Photos
     from HOT activities](https://www.flickr.com/photos/hotosm/)\n[Photos from Missing
     Maps](https://www.flickr.com/photos/126636925@N06/)\n[Previous Articles](https://github.com/hotosm/hotosm-website/wiki/Media-Kit#previously-written-articles)\n\nContact
-    us: [info@hotosm.org](mailto:info@hotosm.org)"
+    us: [communications@hotosm.org](mailto:communications@hotosm.org)"
   Nav ID: media
 layout: contact
 ---
-
